@@ -106,7 +106,7 @@ const invertClick =()=>{
     "+": signClick,
     "=": equalsClick,
     "%":percentClick,
-    '+-': invertClick
+    '+-': invertClick,
    }
 
    if( results[value]){
